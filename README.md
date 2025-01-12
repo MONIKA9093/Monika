@@ -6,15 +6,15 @@ KEY SKILLS:
 
 Database:
 MySQL, SQL Server,
-Data Science Toolkits/Packages: Scikit, NumPy, Pandas, NLTK, Beautiful Soup, Matplotlib, Seaborn, SciPy
-Programming Tools/Languages: Python, SQL
-Data Visualization: Tableau, MS Excel, Power BI
+Data Science Toolkits/Packages: Scikit, NumPy, Pandas, NLTK, Beautiful Soup, Matplotlib, Seaborn, SciPy,
+Programming Tools/Languages: Python, SQL,
+Data Visualization: Tableau, MS Excel, Power BI,
 Statistics and Machine Learning: Classification, Regression, Decision Tree, Random Forest, Naive Bayes, KNN, K-means
 
 💻 Tech Stack:
-Python
-SQL MySQL
-Advance Excel
-Machine Learning
-AutoCad
+Python,
+SQL MySQL,
+Advance Excel,
+Machine Learning,
+AutoCad,
 
